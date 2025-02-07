@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pandurang2004.
-- 👀 I’m interested in Development.
+- 👀 I’m interested in IOT & Software Development.
 - 🌱 I’m currently learning B.tech 3rd year.
 - 📫 Reach me at @pandurangbhosale2004@gmail.com
 - 📫 Reach me on Linkden : www.linkedin.com/in/pandurangbh/
