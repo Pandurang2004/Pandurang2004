@@ -56,14 +56,14 @@ I love transforming ideas into scalable products using modern web & AI technolog
 
 ### 🌾 **AI-Agroguard-Agents**
 AI AgroGuard is a multi-agent AI system that helps small and rural farmers diagnose crop issues, get localized treatment guidance, and generate weather-based preventive plans — available in local languages.
-🔗 **GitHub:** https://github.com/Pandurang2004/AI-Agroguard-Agents  
-🌍 **Live:** https://ai-agroguard.streamlit.app/
+<br>🔗 **GitHub:** https://github.com/Pandurang2004/AI-Agroguard-Agents  
+<br>🌍 **Live:** https://ai-agroguard.streamlit.app/
 
 ---
 
 ### 🧠 **SignLink – Parkinson's Communication System**
 AI-powered sign language recognition system tailored for people suffering from Parkinson’s disease, designed to improve communication accessibility.
-🔗 **GitHub:** https://github.com/Pandurang2004/Sign-Language-Recognition-SLR-
+<br>🔗 **GitHub:** https://github.com/Pandurang2004/Sign-Language-Recognition-SLR-
 
 ---
 
